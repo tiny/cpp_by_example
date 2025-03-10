@@ -1,5 +1,5 @@
-# 00_contents
-table of contents for c++ development 
+# c++ by example
+a list of c++ examples increasing in complexity exercising useful components used in the industry
 
 gradually increasing in difficulty to help those wishing to learn c++ development 
 
