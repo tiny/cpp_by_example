@@ -9,7 +9,7 @@
 
 int main( int argc, const char *argv[] )
 {
-  printf( "Hello world2! \n" ) ;
+  printf( "Hello world! \n" ) ;
   return 0 ;
 } // :: main
 
