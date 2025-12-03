@@ -252,7 +252,7 @@ class Matrix2D
     {
       for( int r = 0 ; r < m_rows ; r++ )
       {
-        printf( "  |" ) ;
+        printf( "  | " ) ;
         for( int c = 0 ; c < m_cols ; c++ )
         {
           printf( "%4.2f ", (*this)( r, c ) ) ;
