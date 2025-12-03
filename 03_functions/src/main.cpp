@@ -9,7 +9,7 @@ int get_value( const char *prompt )
     printf( "%s", prompt ) ;
     scanf( "%d", &value ) ;
     return value ;
-} // :: getstdinteger
+} // :: get_value
 
 int double_value( int val )
 {
